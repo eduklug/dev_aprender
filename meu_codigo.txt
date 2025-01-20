@@ -1,2 +1,2 @@
-olá meu nome é Eduardo
+olá meu nome é Eduardo/Estou aprendendo git
 nova linha
